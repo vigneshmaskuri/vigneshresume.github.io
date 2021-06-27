@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+ <head>
+ <title>Resume</title>
+ </head>
+ <body>
+ <table>
+ <tr>
+ <td><img src="circle-cropped.png" height="200" width="200"</td>
+ <td>
+ <h1>M.Vignesh</h1>
+ <p>9398080386</p>
+ <p>vigneshmudiraj123@gmail.com</p>
+ </td>
+ </tr>
+ </table>
+<strong>Career objective:</strong>
+</br>
+<label>As a fressher, I want to put to use my creative skills, technologies that i am familiar with,innovative thougths that will benefit the organisation in the long run and also help in building my professional career.</label>
+</br>
+</br>
+<strong>Core Competencies:</strong>
+<ul>
+<li>Coding    - C, Core java, DBMS</li>
+<li>Designing - NX-11,  Ansys </li>
+</ul>
+
+<strong>Academic Qualifications</strong>
+<table border="1"  cellpadding="5" cellspacing="0">
+<tr>
+<td> 
+<strong>Degree</strong>
+</td>
+<td>
+<strong>Institute</strong>
+</td>
+<td>
+<strong>Year of passing</strong>
+</td>
+
+
+<td><strong>Aggregegate% /CGPA</strong></td>
+</tr>
+<tr>
+<td>
+ BE -MECH
+</td>
+<td>
+Vasavi college of engineering
+</td>
+
+<td>
+2020
+</td>
+<td>7.8</td>
+</tr>
+<tr>
+<td>
+INTER - MPC
+</td>
+<td>
+Sri Gayatri junior college
+</td>
+<td>2016</td>
+<td>
+98
+</td>
+</tr>
+<tr>
+<td>SSc</td>
+<td>Krishnaveni high school</td>
+<td>2014</td>
+<td>9.5</td>
+</tr>
+</table>
+</br>
+<strong>Hobbies:</strong>
+<ul>
+<li>Playing Cricket</li>
+<li>Gardening</>
+<li>Playing video games</li>
+</ul>
+ </body>
+</html>
